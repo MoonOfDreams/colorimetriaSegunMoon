@@ -1,0 +1,24 @@
+h1{ color: red;
+font: 3em sans-serif;
+text-decoration:underline ;}
+body{
+    background-color:lightpink;
+}
+h2{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font: 1.5em;
+    color: red;
+    text-decoration: underline;
+}
+p{ color: red;
+font-family:Georgia, 'Times New Roman', Times, serif;
+font:100
+}
+header{
+    background-color: coral;
+}
+img{
+width:100px;
+height:100px;
+padding: 10px 10px 10px
+}
